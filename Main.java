@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
-    System.out.println("C(n,r) n'i giriniz:");
+    System.out.println("Sayi giriniz:");
     int a=sc.nextInt();
     int x =1;
     int toplam=0;
